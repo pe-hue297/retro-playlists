@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Retro Music TV" group-title="Retro",Retro Music TV
+http://stream.mediawork.cz/retrotv//retrotvHQ2/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Retro TV CZ" group-title="Retro",Retro TV Czech
+http://82.209.246.56:1935/live/retrotv/playlist.m3u8
